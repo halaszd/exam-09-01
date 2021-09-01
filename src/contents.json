@@ -1,0 +1,25 @@
+{
+	"contents": [
+		{
+			"title": "Lorem ipsum",
+			"subtitle": "Lorem ipsum",
+			"date": "11. 12. 2018",
+			"type": "text",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac congue felis, id maximus urna. Etiam nec quam justo. Vestibulum varius interdum justo, non malesuada quam dictum in. Fusce porta ac velit elementum tempor.",
+			"buttonTxt": "READ MORE"
+		},
+		{
+			"title": "Lorem ipsum",
+			"subtitle": "",
+			"date": "11. 12. 2018",
+			"type": "text",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac congue felis, id maximus urna. Etiam nec quam justo. Vestibulum varius interdum justo, non malesuada quam dictum in. Fusce porta ac velit elementum tempor.",
+			"buttonTxt": "READ MORE"
+		},
+		{
+			"title": "Lorem ipsum",
+			"type": "media",
+			"buttonTxt": "WATCH"
+		}
+	]
+}
